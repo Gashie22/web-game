@@ -1,0 +1,31 @@
+body{
+    background-color: darkblue;
+}
+#controls1{
+    background-color:white;
+    background-color: lightgrey;
+    padding: 10px;
+    margin: 0 auto;
+    max-width: 500px;
+    max-height: 400px;
+}
+#controls{
+    border: 1px black solid;
+    padding: 5px;
+}
+#instructions{
+    background-color: black;
+    color: white;
+    word-spacing: 2px;
+    margin: 0 auto;
+    padding: 10px;
+}
+#MonsterStats{
+    display: none;
+    border: 1px black solid;
+    background-color: red;
+    padding: 5px;
+}
+.stats{
+    padding-right: 10px;
+}
